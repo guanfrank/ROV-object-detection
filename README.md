@@ -68,3 +68,4 @@ For better understanding of the model architecture, you can refer to the followi
 
 ![](https://github.com/wizyoung/YOLOv3_TensorFlow/blob/master/docs/yolo_v3_architecture.png?raw=true)
 
+Data courtesy of Adrian at PyImageSearch
